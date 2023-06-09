@@ -10,7 +10,7 @@ Quadline is a project that allows playing and visualizing the game of connecting
 - Game logic for connecting four tokens of the same color in a straight line.
 - Support for horizontal, vertical, and diagonal connections.
 
-## Screenshots
+## Visuals
 
 Here are some screenshots that illustrate the interface and game in action:
 
