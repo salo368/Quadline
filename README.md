@@ -12,7 +12,7 @@ Quadline is a project that allows playing and visualizing the game of connecting
 
 ## Visuals
 
-Here are some screenshots that illustrate the interface and game in action:
+Here are some visuals that illustrate the interface and game in action:
 
 <div >Game features menu:</div>
 
