@@ -36,4 +36,4 @@ Here are some visuals that illustrate the interface and game in action:
 
 ---
 
-Thank you for your interest in the HellWorld project! If you have any questions or need further information, feel free to contact me.
+Thank you for your interest in the Quadline project! If you have any questions or need further information, feel free to contact me.
