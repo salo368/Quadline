@@ -1,4 +1,6 @@
 # Quadline
+<a href="https://github.com/salo368/Quadline/blob/main/README_Spa.md">(View spanish version)</a>
+
 Connect four game made in Java
 
 Quadline is a project that allows playing and visualizing the game of connecting 4 tokens using a grid. This project is developed in Java with Java Swing and features an interactive interface for players to select cells and connect their tokens. The objective of the game is to connect four tokens of the same color in a straight line, either horizontally, vertically, or diagonally. The project implements the game logic and provides a smooth and enjoyable experience.
