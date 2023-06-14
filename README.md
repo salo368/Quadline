@@ -1,5 +1,5 @@
 # Quadline
-<a href="https://github.com/salo368/Quadline/blob/main/README_Spa.md">(View spanish version)</a>
+<a href="https://github.com/salo368/Quadline/blob/main/README_Spa.md">(Versión español)</a>
 
 Connect four game made in Java
 
